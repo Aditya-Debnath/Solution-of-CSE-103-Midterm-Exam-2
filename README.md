@@ -72,7 +72,7 @@ Ans:-
 
 Beshi value chilo, array size a tulonay. 
 
-Array 3*4=12 < 15
+[Array Size] 3*4 = 12 < [Array value] 15
 
 Question 2.
 2.1
@@ -96,7 +96,7 @@ Ans:- 1 time.
 ii)
 Ans:- 1 time.
 iii)
-Ans:- 0 6 12 18 24 30.........
+Ans:- 0 6 12 18 24 30
 
 2.2
 Just like,
@@ -182,7 +182,8 @@ Try yourself.
 
 Ans:-
 
-Please wait for some time. IDK.
+Please wait for some time. IDK. If you can solve it then do it. OK.
+All the best.
 
 3.3
 i) 3*3 matrix's only coloum sum 
