@@ -182,8 +182,22 @@ Try yourself.
 
 Ans:-
 
-Please wait for some time. IDK. If you can solve it then do it. OK.
-All the best.
+#include<stdio.h>
+int main()
+{
+
+    int i,j, N = 5;
+    for(i=1;i<=N;i++)
+    {
+        for(j=1;j<=i;j++)
+        {
+            printf("%d",j);
+        }
+        printf("\n");
+    }
+
+}
+
 
 3.3
 i) 3*3 matrix's only coloum sum 
