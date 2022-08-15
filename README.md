@@ -233,15 +233,21 @@ int main()
 
 ii)99 100
 
-Ans:- wait for later.
+Ans:- 
 
+#include <stdio.h>
+int main()
+{
 
+    int arr[4] = {1, 3, 99, 34};
+    int temp = 100;
+    arr[2] = temp;
+    for (int i = 0; i < 4; i++)
+    {
+        printf("%d ", arr[i]);
+    }
 
-
-
-
-
-
-
-
+    return 0;
+    
+}
 
